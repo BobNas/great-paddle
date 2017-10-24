@@ -1,0 +1,45 @@
+html,
+body {
+    height: 100%;
+}
+
+body{
+  color: #2d2d2d;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, {
+  color: purple;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: orange;
+}
+
+header {
+  margin: 0 auto;
+  padding: 50px;
+  background-color: tomato;
+  text-align: center;
+  color: white;
+
+  header h1,
+  header h2,
+  header h3 {
+    color: white;
+  }
+}
+.container {
+  width: 1140px;
+  background-color: lightblue;
+
+}
+
+footer.container
